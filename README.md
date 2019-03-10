@@ -1,6 +1,6 @@
 # Scramble
 
-## Test CyberChallenge 2019
+## Test (variante) CyberChallenge 2019
 
 ## Authors
 
